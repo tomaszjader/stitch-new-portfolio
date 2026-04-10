@@ -35,7 +35,7 @@ A high-fidelity, professional portfolio showcasing over 10 years of experience i
 To view the portfolio locally:
 
 1. Clone or download the repository.
-2. Open `code.html` in any modern web browser.
+2. Open `index.html` in any modern web browser.
 
 ---
 
